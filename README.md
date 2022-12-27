@@ -1,2 +1,2 @@
-# NBA_Salary
-[개인R&amp;D] NBA 선수 연봉 예측
+# NBA_SalaryPrediction-
+회귀모델을 활용한 NBA 플레이어 연봉 예측
